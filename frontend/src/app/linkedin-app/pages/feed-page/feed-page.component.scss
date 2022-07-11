@@ -1,0 +1,5 @@
+@import 'src/styles/setup/mixins';
+
+.feed-page {
+    @include page-layout;
+}
